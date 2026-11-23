@@ -8,7 +8,7 @@ ad = input("Adiniz veya takma adiniz: ")
 # Uc ornek olcek maddesinin puanlari alinir.
 puan1 = int(input("1. madde puani (1-5): "))
 puan2 = int(input("2. madde puani (1-5): "))
-puan3 = float(input("3. madde puani (1-5): "))
+puan3 = int(input("3. madde puani (1-5): "))
 
 # Puanlarin gecerli aralikta olup olmadigi kontrol edilir.
 gecerli = (
